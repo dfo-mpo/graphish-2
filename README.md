@@ -30,3 +30,10 @@ https://www.dfo-mpo.gc.ca/fisheries-peches/decisions/index-eng.html
 
 Integrated Fisheries Management:
 https://www.dfo-mpo.gc.ca/fisheries-peches/ifmp-gmp/index-eng.html
+
+# Standards we can use
+## Schema.org
+https://schema.org/
+
+## Ecological Metadata Language
+https://eml.ecoinformatics.org/
