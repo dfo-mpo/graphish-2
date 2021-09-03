@@ -1,6 +1,10 @@
 # graphish-2
 Creates a graph database using data pipelines and NLP.
 
+# Schema
+A draft schema (in progress)
+https://drive.google.com/file/d/1n1BVScoKk0JQtQ1UVZ6yaDEFZHa-UOM-/view?usp=sharing
+
 # Sources
 ## Funding initiatives
 BC Salmon Restoration Fund: 
