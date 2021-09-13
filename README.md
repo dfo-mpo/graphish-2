@@ -41,3 +41,10 @@ https://schema.org/
 
 ## Ecological Metadata Language
 https://eml.ecoinformatics.org/
+
+# Target Analysis
+## Publication records
+What research publications have been produced by DFO scientists?  Target analysis could reproduce the results in the report below:
+https://waves-vagues.dfo-mpo.gc.ca/Library/40869957.pdf
+
+## Policy
